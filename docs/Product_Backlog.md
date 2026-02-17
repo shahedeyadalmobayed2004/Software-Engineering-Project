@@ -1,6 +1,6 @@
- Creating User Stories & Backlog (40 minutes)
+User Stories & Backlog 
 
-Step 1: Identify User Types (10 min)
+Step 1: Identify User Types 
 
 User Types:
 
@@ -15,7 +15,7 @@ Users looking for quick meal inspiration without having to create an account.
 Requirements: Browse the latest recipes, explore categories, watch preparation methods.
 
 
-Step 2: Write User Stories (20 min)
+Step 2: Write User Stories 
 User Stories (Total: 18 Stories)
 Must-Have Stories (Priority 1: Sprints 1-2)
 Story 1: User Registration
@@ -110,7 +110,7 @@ As a user, I want to see a summary of nutrients for each recipe, so that I can t
 Priority: Nice-to-Have 
 Est. Points: 8
 
-Step 3: Add Acceptance Criteria (15 min)
+Step 3: Add Acceptance Criteria 
 
 User Story 1: User Registration
 
